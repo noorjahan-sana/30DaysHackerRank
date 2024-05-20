@@ -1,0 +1,10 @@
+# Ignore all class files
+*.class
+
+# Ignore other common build files
+*.log
+*.tmp
+
+# Ignore directories created by IDEs
+.idea/
+.vscode/
